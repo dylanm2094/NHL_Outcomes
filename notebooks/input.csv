@@ -1,11 +1,25 @@
-﻿Home,ML,Puck Line,PL,Line Mvmt,net_goals
-1,115,1.5,-270,-10,5
-0,130,1.5,-230,25,0
-1,-150,-1.5,195,-25,3
-0,140,1.5,-215,0,-7
-1,-160,-1.5,180,0,1
-0,162,1.5,-185,-2,3
-1,-182,-1.5,160,2,3
-0,280,1.5,110,-10,-17
-1,-350,-1.5,-130,10,5
-0,105,1.5,-290,5,1
+﻿Team,Date,Home,ML,Puck Line,PL,Line Mvmt,net_goals
+Carolina Hurricanes,8/1/20,1,-121,-1.5,187,,29
+New York Rangers,8/1/20,0,119,1.5,-225,,12
+Chicago Blackhawks,8/1/20,1,139,1.5,-188,,-6
+Edmonton Oilers,8/1/20,0,-143,-1.5,163,,8
+Florida Panthers,8/1/20,1,103,1.5,-253,,3
+New York Islanders,8/1/20,0,-108,-1.5,212,,-1
+Montreal Canadiens,8/1/20,1,174,,,,-9
+Pittsburgh Penguins,8/1/20,0,-120,,,,28
+Calgary Flames,8/1/20,1,-111,-1.5,207,,-5
+Winnipeg Jets,8/1/20,0,107,1.5,-252,,13
+Arizona Coyotes,8/2/20,1,114,1.5,-236,,9
+Nashville Predators,8/2/20,0,-117,-1.5,197,,-2
+Boston Bruins,8/2/20,1,-140,-1.5,139,,53
+Philadelphia Flyers,8/2/20,0,111,1.5,-293,,36
+Colorado Avalanche,8/2/20,1,120,,,,46
+St Louis Blues,8/2/20,0,125,,,,32
+Columbus Blue Jackets,8/2/20,1,142,1.5,-188,,-7
+Toronto Maple Leafs,8/2/20,0,-143,-1.5,163,,11
+Minnesota Wild,8/2/20,1,110,1.5,-239,,0
+Vancouver Canucks,8/2/20,0,-111,-1.5,197,,11
+Tampa Bay Lightning,8/3/20,1,-115,-1.5,183,,50
+Washington Capitals,8/3/20,0,116,1.5,-226,,25
+Dallas Stars,8/3/20,1,115,1.5,-239,,3
+Vegas Golden Knights,8/3/20,0,-115,-1.5,195,,16
